@@ -30,7 +30,7 @@ public class UserServiceImpl implements UserService {
 
         User saveUser = User.builder()
                 .id(UUID.randomUUID().toString())
-                .nama(request.getName())
+                .name(request.getName())
                 .age(request.getAge())
                 .build();
 
