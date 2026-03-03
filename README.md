@@ -1,0 +1,10 @@
+### Tampilan
+![Tampilan ](hasil/tampilan.png)
+### create
+![Tampilan create](hasil/create.png)
+### update
+![Tampilan update](hasil/update.png)
+### read
+![Tampilan read](hasil/read.png)
+### delete
+![Tampilan delete](hasil/delete.png)
